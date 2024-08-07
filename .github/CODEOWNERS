@@ -1,2 +1,2 @@
 /dir1 @keik
-/dir1/dir1-2
+/dir1/**/dir1-1-1 @keik-sandbox
